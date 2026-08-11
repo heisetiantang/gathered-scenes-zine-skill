@@ -28,7 +28,7 @@ Resolve conflicts in this order:
 7. Make edge, material, color, space, and typography serve the proposition.
 8. Preserve substantial quiet space and one interpretive opening.
 9. Apply the requested color mode faithfully and use high chroma with purpose.
-10. Keep the result tactile, flat, poetic, and non-commercial.
+10. Keep the result tactile, flat, poetic, and non-promotional.
 
 Do not treat this as photo filtering, style transfer, rotoscoping, or a literal illustrated copy.
 
