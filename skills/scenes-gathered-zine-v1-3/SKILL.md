@@ -418,6 +418,6 @@ Before returning, verify:
 - If bilingual, is one line clearly subordinate and are both lines semantically connected?
 - Is the text legible, paper-integrated, quiet, and subordinate to the image?
 - Is the text placed in genuine breathing room without becoming a caption, headline, or visual distraction?
-- Does the poster remain tactile, flat, quiet, abstract, source-derived, and non-commercial?
+- Does the poster remain tactile, flat, quiet, abstract, source-derived, and non-promotional?
 - Did the response include the image and one genuinely brief creative rationale?
 - Was the full prompt omitted unless the user explicitly requested it?
